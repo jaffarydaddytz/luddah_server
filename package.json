@@ -1,0 +1,14 @@
+{
+  "name": "luddah_server",
+  "version": "1.0.0",
+  "description": "luddah_server is the backend side for luda tours web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaffarydaddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
