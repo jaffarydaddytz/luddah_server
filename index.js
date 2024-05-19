@@ -4,7 +4,9 @@ const port=3003;
 
 
 app.get('/', (req, res)=>{
-    res.send('luddar server is running');
+
+    // res.send('luddar server is up running');
+    res.send('luddar server is up running');
 });
 
 app.listen(port ,()=>{
